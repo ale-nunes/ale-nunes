@@ -12,9 +12,9 @@
 - 😄 Pronouns: he/him
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Alê GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-nunes&show_icons=true&bg_color=00000000)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-nunes&langs_count=8)
 
 
