@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**ale-nunes/ale-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I'm Alê, a Data Analyst 🚀 from Brazil!
 
 - 🔭 I’m currently working on Tableau and Power BI;
 - 🌱 I’m currently learning Tools into clouds for ETL;
