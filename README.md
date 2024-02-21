@@ -11,3 +11,4 @@
 - 📫 How to reach me: [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al%C3%A9cio-n-9a6a30109/)
 - 😄 Pronouns: he/him
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
