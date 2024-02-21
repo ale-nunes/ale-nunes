@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Alê, a Data Analyst 🚀 from Brazil!
 
+[![Blog](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/al.cio.nunes.barbosa)  
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](artista.z21@gmail.com)  
+[![Blog](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()  
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@artista.z21/teste-f08d334afe20)
+
 - 🔭 I’m currently working on Tableau and Power BI;
 - 🌱 I’m currently learning Tools into clouds for ETL;
 - 👯 I’m looking to collaborate on open sourse projects; 
