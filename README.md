@@ -5,6 +5,12 @@
 [![Blog](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()  
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@artista.z21/teste-f08d334afe20)
 
+[![Blog](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]()
+
+[![Blog](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
+
+<!-- [![Blog]()]() -->
+
 - 🔭 I’m currently working on Tableau and Power BI;
 - 🌱 I’m currently learning Tools into clouds for ETL;
 - 👯 I’m looking to collaborate on open sourse projects; 
