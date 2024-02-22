@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alê, a Data Analyst 🚀 from Brazil!
 
-[![Blog](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/al.cio.nunes.barbosa) [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@artista.z21/teste-f08d334afe20)
+[![Blog](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/al.cio.nunes.barbosa) [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@artista.z21%20)
 
 <!-- [![Blog]()]() -->
 
