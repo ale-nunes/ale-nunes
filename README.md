@@ -5,8 +5,9 @@
 
 - 🔭 I’m currently working on Tableau and Power BI;
 - 🌱 I’m currently learning English and Tools into clouds for ETL;
-- 🤓 I have knowledge in databricks and python
+- 🤓 I have knowledge in databricks, python and SQL.
 - 💬 Ask me about anything. I'm happy to help;
+- I'm currently learning LLM and RAG;
 - 📫 How to reach me: [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al%C3%A9cio-n-9a6a30109/)
 - 😄 Pronouns: he/him
 
